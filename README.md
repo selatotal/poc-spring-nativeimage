@@ -1,6 +1,7 @@
 # Spring Boot Native Image Test
 
 Project to test GraalVM Native Image support in Spring Boot
+Reference: https://docs.spring.io/spring-boot/reference/packaging/native-image/index.html
 
 # Building image
 ```shell
